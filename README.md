@@ -20,7 +20,7 @@
 | [threads-autopilot](https://github.com/leejinam/threads-autopilot) | 스레드 예약 자동발행 킷 - 예약 큐 / 답글 체인 / 토픽 태그 / 토큰 자동 갱신 |
 | [hapole-web](https://github.com/leejinam/hapole-web) | hapole.com 브랜드 사이트 |
 | hapole-admin (private) | 계정 운영 관리자 - 루틴 / 할 일 / 콘텐츠 파이프라인 / 스레드 자동발행 |
-| tagline (private) | 이메일 서명 생성 SaaS - 서명 만들기 무료, HTML 복사는 구독제 |
+| [tagline.work](https://tagline.work) (소스 private) | 이메일 서명 생성 SaaS - 서명 만들기 무료, HTML 복사는 구독제 |
 
 운영 코드 대부분은 실서비스 보안상 비공개입니다. 재사용 가능한 조각은 공개 리포로 분리하고 있습니다.
 
