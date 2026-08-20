@@ -17,6 +17,7 @@
 
 | 리포 | 설명 |
 |---|---|
+| [threads-autopilot](https://github.com/leejinam/threads-autopilot) | 스레드 예약 자동발행 킷 - 예약 큐 / 답글 체인 / 토픽 태그 / 토큰 자동 갱신 |
 | [hapole-web](https://github.com/leejinam/hapole-web) | hapole.com 브랜드 사이트 |
 | hapole-admin (private) | 계정 운영 관리자 - 루틴 / 할 일 / 콘텐츠 파이프라인 / 스레드 자동발행 |
 
